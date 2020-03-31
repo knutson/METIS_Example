@@ -1,0 +1,4 @@
+the following environment variable must be set:
+
+setenv METIS_HOME /project/knuts661/opt/metis/5.1.0/GCC-7.4.1
+setenv LD_LIBRARY_PATH $METIS_HOME/lib
